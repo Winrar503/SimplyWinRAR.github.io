@@ -36,7 +36,7 @@ export default function Resume() {
             borderRadius="md"
           >
             <iframe
-              src="https://drive.google.com/file/d/15WSX7cweYh95KrsTlv1NsJcqk0K6nGr2/preview"
+              // src="https://drive.google.com/file/d/15WSX7cweYh95KrsTlv1NsJcqk0K6nGr2/preview"
               title="Resume"
               width="100%"
               height="100%"
@@ -52,7 +52,7 @@ export default function Resume() {
             fontSize="sm"
             fontFamily="DM Sans"
           >
-            Download Resume
+            Descarga curriculun
           </Button>
         </Flex>
       </Box>

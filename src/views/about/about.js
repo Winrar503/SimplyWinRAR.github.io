@@ -34,7 +34,7 @@ import git from "../../assets/icons/git.svg";
 import gitlab from "../../assets/icons/gitlab.svg";
 import cpp from "../../assets/icons/c++.png";
 import express from "../../assets/icons/express.svg";
-import myphoto from "../../assets/aboutMePhoto.jpg";
+import myphoto from "../../assets/Imagen de WhatsApp 2024-12-03 a las 10.49.55_1ca441bc.jpg";
 import GitHubCalendar from "react-github-calendar";
 
 export default function About() {
@@ -133,38 +133,38 @@ export default function About() {
                   mb="40px"
                   textAlign="center"
                 >
-                  {"<GENERAL INFORMATION/>"}
+                  {"<Informacion General/>"}
                 </Text>
                 <SimpleGrid columns="2" gap="20px">
                   <AboutMeInfo
                     boxShadow={cardShadow}
-                    title="Current Organization"
-                    value="Truminds Software Systems"
+                    title="Organizacion actual"
+                    value="En busqueda de trabajo"
                   />
                   <AboutMeInfo
                     boxShadow={cardShadow}
-                    title="Designation"
-                    value="Software Development Engineer - 1"
+                    title="Designacion"
+                    value="Desarrollador de software"
                   />
                   <AboutMeInfo
                     boxShadow={cardShadow}
-                    title="Location"
-                    value="Bengaluru, Karnataka"
+                    title="Ubicacion"
+                    value="Sonsonate, El Salvador"
                   />
                   <AboutMeInfo
                     boxShadow={cardShadow}
-                    title="Education"
-                    value="BIT Mesra, Ranchi"
+                    title="Educacion"
+                    value="Tecnico en ingenieria de desarrollo en software "
                   />
                   <AboutMeInfo
                     boxShadow={cardShadow}
-                    title="Degree"
-                    value="Masters"
+                    title="Grado"
+                    value="Alumno"
                   />
                   <AboutMeInfo
                     boxShadow={cardShadow}
-                    title="Languages"
-                    value="English, Hindi, Odia"
+                    title="Idiomas"
+                    value="English(En proceso), Español, Italiano(En proceso)"
                   />
                 </SimpleGrid>
               </Box>
@@ -255,7 +255,7 @@ export default function About() {
           mt="40px"
         >
           <Text color={textColorPrimary} fontSize="2em" textAlign="center">
-            {"<MY INTERESTS AND HOBBIES/>"}
+            {"<Mis intereses y pasa tiempos/>"}
           </Text>
         </Flex>
         <SimpleGrid
@@ -274,14 +274,9 @@ export default function About() {
                 color="inherit"
               />
             </Box>
-            <Text textAlign="center">Travelling & Exploring</Text>
+            <Text textAlign="center">[...]</Text>
             <Text color={textColorPrimary} textAlign="center" mt="5px">
-              I am passionate about traveling and exploring new places. Whether
-              it's uncovering hidden gems in my own backyard or embarking on
-              exciting adventures, I thrive on the thrill of discovering new
-              cultures, cuisines, and landscapes. Traveling not only broadens my
-              horizons but also provides me with valuable life experiences and a
-              deep appreciation for the diversity of our world!!
+             [...]
             </Text>
           </Box>
           <Box __css={styles}>
@@ -293,15 +288,9 @@ export default function About() {
                 color="inherit"
               />
             </Box>
-            <Text textAlign="center">Playing Drums</Text>
+            <Text textAlign="center">[...]</Text>
             <Text color={textColorPrimary} textAlign="center" mt="5px">
-              I have a deep passion for playing the drums, which has been a
-              cherished hobby of mine for many years. The rhythmic beats and the
-              feeling of being in sync with the music provide me with a sense of
-              joy and creative expression that is truly unparalleled. Whether
-              it's jamming with friends, exploring new techniques, or simply
-              drumming to my favorite tunes, I find immense fulfillment and
-              relaxation in this musical pursuit!!
+              [...]
             </Text>
           </Box>
           <Box __css={styles}>
@@ -313,15 +302,9 @@ export default function About() {
                 color="inherit"
               />
             </Box>
-            <Text textAlign="center">Playing Outdoor Games</Text>
+            <Text textAlign="center">[...]</Text>
             <Text color={textColorPrimary} textAlign="center" mt="5px">
-              Whether it's a competitive game of soccer, a relaxing round of
-              golf, or simply throwing a frisbee in the park, I find immense joy
-              and fulfillment in the great outdoors. Playing sports not only
-              keeps me physically active but also fosters teamwork, leadership,
-              and a strong sense of camaraderie. It's a wonderful way for me to
-              unwind, stay fit, and connect with friends and family while
-              enjoying the beauty of nature!!
+             [...]
             </Text>
           </Box>
         </SimpleGrid>

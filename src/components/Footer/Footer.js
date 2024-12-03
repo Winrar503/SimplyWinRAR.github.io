@@ -49,7 +49,7 @@ export default function Footer() {
       >
         {" "}
         &copy; {1900 + new Date().getYear()}
-        {"</>"} with <AiFillHeart /> by Rahul Kumar Patro • All Rights Reserved
+        {"</>"} Con <AiFillHeart />  Darwin Alexis • Todos los derechos reservados
       </Text>
       <List display="flex">
         <ListItem
@@ -60,7 +60,7 @@ export default function Footer() {
           opacity="0.6"
           _hover={{ opacity: 1 }}
         >
-          <Link href="https://github.com/Rahul1582" target="blank">
+          <Link href="https://github.com/Winrar503" target="blank">
             <AiFillGithub />
           </Link>
         </ListItem>
@@ -72,7 +72,7 @@ export default function Footer() {
           opacity="0.6"
           _hover={{ opacity: 1 }}
         >
-          <Link href="https://leetcode.com/rahul158_/" target="blank">
+          {/* <Link href="https://leetcode.com/rahul158_/" target="blank">
             <SiLeetcode />
           </Link>
         </ListItem>
@@ -83,8 +83,8 @@ export default function Footer() {
           }}
           opacity="0.6"
           _hover={{ opacity: 1 }}
-        >
-          <Link href="https://www.linkedin.com/in/rahulkp15/" target="blank">
+        > */}
+          <Link href="https://www.linkedin.com/in/darwin-alexis/" target="blank">
             <BiLogoLinkedin />
           </Link>
         </ListItem>
@@ -96,7 +96,7 @@ export default function Footer() {
           opacity="0.6"
           _hover={{ opacity: 1 }}
         >
-          <Link href="https://www.instagram.com/_rahul_patro_/" target="blank">
+          <Link href="https://www.instagram.com/winraraelexis/profilecard/?igsh=M2QwamN4aml0MW5j" target="blank">
             <BsInstagram />
           </Link>
         </ListItem>

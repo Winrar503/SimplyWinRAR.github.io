@@ -9,11 +9,11 @@ import {
 import routes from "../../routes";
 import Navbar from "../../components/Navbar/Navbar";
 import ProjectCard from "../../components/ProjectCard/ProjectCard";
-import nftproject from "../../assets/projects/nft_blockchain_500x300.jpg";
-import medhub from "../../assets/projects/medhub_500x300.jpg";
-import collab from "../../assets/projects/lets_collab_img3.jpg";
-import blog from "../../assets/projects/bloggers.jpg";
-import eeg from "../../assets/projects/eeg_500x300.jpg";
+import nftproject from "../../assets/projects/one.png";
+import medhub from "../../assets/projects/maxresdefault.jpg";
+import collab from "../../assets/projects/api.png";
+import blog from "../../assets/projects/markeplace.png";
+import eeg from "../../assets/projects/pngtree-plus-sign-symbol-simple-design-pharmacy-logo-black-vector-png-image_12186664.png";
 import mtrans from "../../assets/projects/mt_500x300.jpg";
 import steg from "../../assets/projects/steg_500x300.jpeg";
 
@@ -53,52 +53,52 @@ export default function Projects() {
         >
           <ProjectCard
             projectImage={nftproject}
-            projectName={"NFT Based E-Commerce Website"}
-            aboutProject={"Blockchain based warranty using NFT"}
-            techStack={"EXPRESS JS, NODE JS, REACT JS, MONGODB, SOLIDITY"}
-            projectLiveLink="https://flipkart-grid-frontend.vercel.app/"
-            projectLink="https://github.com/Rahul1582/NFT-Based-E-Commerce-Website"
+            projectName={"App de asistencia con reconociemiento facial"}
+            aboutProject={"Proyecto personal"}
+            techStack={"ASP.NET CORE MVC, SQL SERVER, HTML, CSS, JS, TAILWIND, OPEN CV, EGMU CV "}
+            //projectLiveLink="https://flipkart-grid-frontend.vercel.app/"
+            projectLink="https://github.com/Winrar503/Control.Asistencia_Facial_Asp.Net_core_MVC"
           />
           <ProjectCard
             projectImage={collab}
-            projectName={"LET'S COLLAB"}
-            aboutProject={"A Realtime Chatting Application"}
-            techStack={"EXPRESS JS, NODE JS, REACT JS, MONGODB"}
-            projectLiveLink="https://lets-collab.vercel.app/"
-            projectLink="https://github.com/Rahul1582/Lets_Collab"
+            projectName={"Api Contacto"}
+            aboutProject={"Api de contactos, funciones en produccion"}
+            techStack={"c# 100% (ASP.NET CORE WED API)"}
+           // projectLiveLink="https://lets-collab.vercel.app/"
+            projectLink="https://github.com/Winrar503/ApiAgenda_Asp.Net_core_wed_Api"
           />
           <ProjectCard
             projectImage={medhub}
-            projectName={"MedHub-360"}
+            projectName={"Bibliotec-Win"}
             aboutProject={
-              "An Advanced Medical-Healthcare Application To Analyse Medical Reports For Patients And Doctors"
+              "Una app de biblioteca para gestionar libros de manera wed eficiente y rapido"
             }
             techStack={
-              "JAVASCRIPT, PYTHON, NODE JS, MONGODB, HTML, BOOTSTRAP, CSS,TESSERACT-OCR, FLASK"
+              "ASP.NET CORE MVC, CSS, HTML, JS"
             }
-            projectLiveLink="https://medhub-360.vercel.app/"
+            //projectLiveLink="https://medhub-360.vercel.app/"
             projectLink="https://github.com/Rahul1582/MedHub_360"
           />
           <ProjectCard
             projectImage={blog}
-            projectName={"Bloggers Arena"}
-            aboutProject={"A Blogging Website with User Authentication"}
-            techStack={"EXPRESS JS, NODE JS, REACT JS, MONGODB"}
-            projectLiveLink="https://bloggers-arena.vercel.app/"
-            projectLink="https://github.com/Rahul1582/Bloggers-Arena"
+            projectName={"XChange"}
+            aboutProject={"App de intercambios, ventas, eficiente para hacer compras y trueques."}
+            techStack={"JavaScript, TypeScript, React.js, Css"}
+            //projectLiveLink="https://bloggers-arena.vercel.app/"
+            projectLink="https://github.com/AdrianJK1/xChangeV1N"
           />
           <ProjectCard
             projectImage={eeg}
-            projectName={"Emotion Recognition from Psychological Signals"}
+            projectName={"¡muchos mas proyectos!"}
             aboutProject={
-              "Detection of Human Emotions from EEG signals using the AMIGOS Dataset"
+              "[...]"
             }
             techStack={
-              "PYTORCH, CNN, SVC, PYTHON, FOURIER AND WAVELET TRANSFORMATIONS, STFT, ENTROPY, FEATURE FUSION"
+              "Mucho en mi github, da clic en el boton de abajo y descubre"
             }
-            projectLink="https://github.com/Rahul1582/Emotion-Recognition-from-Psychological-Signals"
+            projectLink="https://github.com/Winrar503?tab=repositories"
           />
-          <ProjectCard
+          {/* <ProjectCard
             projectImage={mtrans}
             projectName={"Machine Translation"}
             aboutProject={
@@ -136,7 +136,7 @@ export default function Projects() {
             projectName={"Steganography Blog Part 2"}
             aboutProject={"This Blog is about hiding an Image inside an Image"}
             projectLink="https://rahul1582.medium.com/steganography-part-2-ad7452a3ff1"
-          />
+          /> */}
         </SimpleGrid>
       </Box>
     </Box>

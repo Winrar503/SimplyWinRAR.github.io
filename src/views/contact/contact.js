@@ -92,9 +92,9 @@ export default function Contact() {
                   color="inherit"
                 />
               </Box>
-              <Text textAlign="center">FIND ME @</Text>
+              <Text textAlign="center">Ubicacion</Text>
               <Text color={textColorPrimary} textAlign="center" mt="5px">
-                Truminds Software Systems
+                Santo Domingo de Guzman, Sonsonate, El Salvador
               </Text>
             </Box>
           </Flex>
@@ -123,10 +123,10 @@ export default function Contact() {
                 </Link>
               </Box>
 
-              <Text textAlign="center">EMAIL ME @</Text>
+              <Text textAlign="center">Correo</Text>
 
               <Text color={textColorPrimary} textAlign="center" mt="5px">
-                rahulkpatro@gmail.com
+                darwinvasquez611@gmail.com
               </Text>
             </Box>
           </Flex>
@@ -145,9 +145,9 @@ export default function Contact() {
                   color="inherit"
                 />
               </Box>
-              <Text textAlign="center">CALL ME @</Text>
+              <Text textAlign="center">Telefono</Text>
               <Text color={textColorPrimary} textAlign="center" mt="5px">
-                (+91)-7667232335
+                (+503) 7627-2675
               </Text>
             </Box>
           </Flex>
