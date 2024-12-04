@@ -3,9 +3,15 @@
 Self Coded Portfolio Website made using React JS and Chakra UI.
 
 
-<p align="center"> 
+<!-- <p align="center"> 
   <kbd>
     <a href="https://rahulkp15.onrender.com/" target="_blank"><img src="./images/intro.jpg" >
+  </a>
+  </kbd>
+</p> -->
+<p align="center"> 
+  <kbd>
+    <a href="http://localhost:3000/home" target="_blank"><img src="./images/intro.jpg" >
   </a>
   </kbd>
 </p>
