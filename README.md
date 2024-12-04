@@ -18,7 +18,7 @@ Self Coded Portfolio Website made using React JS and Chakra UI.
 
 ## Live Demo 
 
-- Click [here](https://winrar503.github.io/SimplyWinRAR.github.io/) to view the live demo.
+- Click [here](https://simply-win-rar-github-io.vercel.app/home) to view the live demo.
 
 ## Features 📋
 
