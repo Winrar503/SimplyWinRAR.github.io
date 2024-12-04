@@ -22,67 +22,67 @@ export default function Dashboard() {
   let textColor = useColorModeValue("gray.700", "white");
   let quotes = [
     {
-      text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
+      text: "El genio es un uno por ciento de inspiración y un noventa y nueve por ciento de transpiración.",
       author: "Thomas Edison, type.fit",
     },
     {
-      text: "You can observe a lot just by watching.",
+      text: "Se pueden observar muchas cosas simplemente observando.",
       author: "Yogi Berra, type.fit",
     },
     {
-      text: "A house divided against itself cannot stand.",
+      text: "Una casa dividida contra sí misma no puede perdurar.",
       author: "Abraham Lincoln, type.fit",
     },
     {
-      text: "Difficulties increase the nearer we get to the goal.",
+      text: "Las dificultades aumentan cuanto más nos acercamos a la meta.",
       author: "Johann Wolfgang von Goethe, type.fit",
     },
     {
-      text: "Fate is in your hands and no one elses",
+      text: "El destino está en tus manos y en las de nadie más.",
       author: "Byron Pulsifer, type.fit",
     },
     {
-      text: "Be the chief but never the lord.",
+      text: "Sé el jefe pero nunca el señor..",
       author: "Lao Tzu, type.fit",
     },
     {
-      text: "Nothing happens unless first we dream.",
+      text: "Nada sucede si primero no soñamos.",
       author: "Carl Sandburg, type.fit",
     },
     {
-      text: "Well begun is half done.",
+      text: "Bien comenzado es medio hecho.",
       author: "Aristotle, type.fit",
     },
     {
-      text: "Life is a learning experience, only if you learn.",
+      text: "La vida es una experiencia de aprendizaje, sólo si aprendes.",
       author: "Yogi Berra",
     },
     {
-      text: "Self-complacency is fatal to progress.",
+      text: "La autocomplacencia es fatal para el progreso.",
       author: "Margaret Sangster, type.fit",
     },
     {
-      text: "Peace comes from within. Do not seek it without.",
+      text: "La paz viene de dentro. No la busques fuera.",
       author: "Buddha, type.fit",
     },
     {
-      text: "What you give is what you get.",
+      text: "Lo que das es lo que recibes.",
       author: "Byron Pulsifer, type.fit",
     },
     {
-      text: "We can only learn to love by loving.",
+      text: "Sólo podemos aprender a amar amando.",
       author: "Iris Murdoch, type.fit",
     },
     {
-      text: "Life is change. Growth is optional. Choose wisely.",
+      text: "La vida es cambio. El crecimiento es opcional. Elige sabiamente.",
       author: "Karen Clark, type.fit",
     },
     {
-      text: "You'll see it when you believe it.",
+      text: "Lo verás cuando lo creas.",
       author: "Wayne Dyer, type.fit",
     },
     {
-      text: "Today is the tomorrow we worried about yesterday.",
+      text: "Hoy es el mañana por el que nos preocupamos ayer.",
       author: "type.fit",
     },
   ];
@@ -134,7 +134,7 @@ export default function Dashboard() {
                     fontWeight="bold"
                     color={textColor}
                   >
-                    Hello Everyone!! 🙋🏻‍♂️
+                    Hola a todos!! 🙋🏻‍♂️
                   </Text>
 
                   <Text
@@ -143,9 +143,9 @@ export default function Dashboard() {
                     color={textColor}
                     mt="20px"
                   >
-                    This is{" "}
+                    Esto es mi{" "}
                     <Text display="inline-flex" color={highlightTextColor}>
-                      Rahul Kumar Patro
+                      portafolio
                     </Text>
                   </Text>
                   <Text
@@ -154,9 +154,9 @@ export default function Dashboard() {
                     color={textColor}
                     mt="20px"
                   >
-                    I am a{" "}
+                    y soy un{" "}
                     <Text display="inline-flex" color={highlightTextColor}>
-                      Software Developer
+                      desarrollador de software
                     </Text>
                   </Text>
                 </Box>
@@ -192,7 +192,7 @@ export default function Dashboard() {
             cursor="default"
             mt="20px"
           >
-            Random Quote
+            Citas Aleatorio
             <Box
               fontSize={{ sm: "1em", md: "1.3em", xl: "1.3em" }}
               color={highlightTextColor}
