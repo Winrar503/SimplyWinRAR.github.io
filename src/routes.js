@@ -17,37 +17,37 @@ import Contact from "./views/contact/contact";
 
 const routes = [
   {
-    name: "Home",
+    name: "Inicio",
     path: "/home",
-    navbarDisplayName: "<Home/>",
+    navbarDisplayName: "<Inicio/>",
     icon: <Icon as={MdDashboard} width="30px" height="30px" color="inherit" />,
     component: Dashboard
   },
   {
-    name: "About Me",
+    name: "Acerca de mi",
     path: "/about",
-    navbarDisplayName: "<About Me/>",
+    navbarDisplayName: "<Yo/>",
     icon: <Icon as={MdPersonPin} width="30px" height="30px" color="inherit" />,
     component: About
   },
   {
-    name: "Projects And Blogs",
+    name: "Mis proyectos",
     path: "/projects",
-    navbarDisplayName: "<Projects And Blogs/>",
+    navbarDisplayName: "<Proyectos/>",
     icon: <Icon as={MdCode} width="30px" height="30px" color="inherit" />,
     component: Projects
   },
   {
-    name: "Resume",
+    name: "Curriculum",
     path: "/resume",
-    navbarDisplayName: "<Resume/>",
+    navbarDisplayName: "<Curriculum/>",
     icon: <Icon as={MdBarChart} width="30px" height="30px" color="inherit" />,
     component: Resume
   },
   {
-    name: "Contact Me",
+    name: "Contactame",
     path: "/contact",
-    navbarDisplayName: "<Contact/>",
+    navbarDisplayName: "<Contactos/>",
     icon: <Icon as={MdContacts} width="30px" height="30px" color="inherit" />,
     component: Contact
   }

@@ -136,7 +136,7 @@ export default function ProjectCard(props) {
                   px="24px"
                   py="5px"
                 >
-                  View Website
+                  Ver sitio web
                 </Button>
               </Link>
             </>
