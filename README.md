@@ -18,50 +18,50 @@ Self Coded Portfolio Website made using React JS and Chakra UI.
 
 ## Live Demo 
 
-- Click [here](https://simply-win-rar-github-io.vercel.app/home) to view the live demo.
+- Click [here](https://simply-win-rar-github-io.vercel.app/home) Para verlo en vivo
 
 ## Features 📋
 
-⚡️ Dark and Light Theme \
+<!-- ⚡️ Dark and Light Theme \
 🎨 Customizable Layouts: Personalize your portfolio layout.\
 📱  Responsive Design: Look great on desktop, tablet, and mobile.\
 🏳️ Shimmering Effect and Lazy Loading of Images. \
 💡  Edit with Ease: Light weight editing solution.\
-💻 Downloadable React Code: Full control over your portfolio.
+💻 Downloadable React Code: Full control over your portfolio. -->
 
 
 ## Sections 📚
 
-✔️ Home\
+<!-- ✔️ Home\
 ✔️ About Me\
 ✔️ Projects And Blogs\
 ✔️ Resume\
-✔️ Contact Me
+✔️ Contact Me -->
 
 ### Tech Stack 💻
-
+<!-- 
 - [React.js](https://react.dev/)
-- [Chakra UI](https://chakra-ui.com/)
+- [Chakra UI](https://chakra-ui.com/) -->
 
 ## Screenshots
 
 ### Laptop Views
 
-<p align="center"> 
+<!-- <p align="center"> 
   <kbd>
     <a href="https://simply-win-rar-github-io.vercel.app/home" target="_blank"><img src="./images/laptopView.jpg">
   </a>
   </kbd>
-</p>
+</p> -->
 
 ### Mobile Views
 
-<div align="center"> 
+<!-- <div align="center"> 
   <kbd>
  <img src="./images/mobile-view-1.jpg" width="400" height="400">
  <img src="./images/mobile-view-2.jpg" width="400" height="400">
   </kbd>
-</div>
+</div> -->
 
 ## Getting Started ⚡ :-
 
@@ -87,12 +87,12 @@ Self Coded Portfolio Website made using React JS and Chakra UI.
 
 ## Deployment 📦
 
-This Web Application is deployed to Render.
+<!-- This Web Application is deployed to Render.
 
-You could also host directly with Render by linking your own repository.
+You could also host directly with Render by linking your own repository. -->
 
 
-## License 📄
+## License 📄g
 This project is licensed under the Apache-2.0 License - see the [LICENSE.md](./LICENSE) file for details
 
 
