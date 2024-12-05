@@ -11,7 +11,7 @@ Self Coded Portfolio Website made using React JS and Chakra UI.
 </p> -->
 <p align="center"> 
   <kbd>
-    <a href="http://localhost:3000/home" target="_blank"><img src="./images/intro.jpg" >
+    <a href="https://simply-win-rar-github-io.vercel.app/home" target="_blank"><img src="./images/intro.jpg" >
   </a>
   </kbd>
 </p>
@@ -49,7 +49,7 @@ Self Coded Portfolio Website made using React JS and Chakra UI.
 
 <p align="center"> 
   <kbd>
-    <a href="https://rahulkp15.onrender.com/" target="_blank"><img src="./images/laptopView.jpg">
+    <a href="https://simply-win-rar-github-io.vercel.app/home" target="_blank"><img src="./images/laptopView.jpg">
   </a>
   </kbd>
 </p>
