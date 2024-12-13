@@ -126,7 +126,7 @@ export default function Contact() {
               <Text textAlign="center">Correo</Text>
 
               <Text color={textColorPrimary} textAlign="center" mt="5px">
-                darwinvasquez611@gmail.com
+                darpv22@gmail.com
               </Text>
             </Box>
           </Flex>
