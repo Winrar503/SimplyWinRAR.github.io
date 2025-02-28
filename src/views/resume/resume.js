@@ -18,9 +18,13 @@ export default function Resume() {
     }
   };
 
+  // const handleDownload = () => {
+  //   window.location.href =
+  //     "https://drive.google.com/uc?export=download&id=15WSX7cweYh95KrsTlv1NsJcqk0K6nGr2";
+  // };
   const handleDownload = () => {
     window.location.href =
-      "https://drive.google.com/uc?export=download&id=15WSX7cweYh95KrsTlv1NsJcqk0K6nGr2";
+      "https://drive.google.com/uc?export=download&id=1jAxj9AJ9rCQZiit50r0WzLigUEUv-2XC";
   };
 
   return (
@@ -35,14 +39,25 @@ export default function Resume() {
             overflow="hidden"
             borderRadius="md"
           >
+            {/* <iframe
+              // https://drive.google.com/file/d/1jAxj9AJ9rCQZiit50r0WzLigUEUv-2XC/view"
+              title="Resume"
+              width="100%"
+              height="100%"
+              style={{ border: "5px solid" }}
+              loading="lazy"
+            ></iframe> */}
             <iframe
-              // src="https://drive.google.com/file/d/15WSX7cweYh95KrsTlv1NsJcqk0K6nGr2/preview"
+              src="https://drive.google.com/file/d/1jAxj9AJ9rCQZiit50r0WzLigUEUv-2XC/preview"
               title="Resume"
               width="100%"
               height="100%"
               style={{ border: "5px solid" }}
               loading="lazy"
             ></iframe>
+
+
+
           </Box>
         </Flex>
         <Flex justifyContent="center" alignItems="center" mt="20px">
