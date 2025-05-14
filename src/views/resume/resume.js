@@ -39,6 +39,8 @@ export default function Resume() {
             overflow="hidden"
             borderRadius="md"
           >
+
+
             {/* <iframe
               // https://drive.google.com/file/d/1jAxj9AJ9rCQZiit50r0WzLigUEUv-2XC/view"
               title="Resume"
@@ -47,6 +49,8 @@ export default function Resume() {
               style={{ border: "5px solid" }}
               loading="lazy"
             ></iframe> */}
+
+
             <iframe
               src="https://drive.google.com/file/d/1jAxj9AJ9rCQZiit50r0WzLigUEUv-2XC/preview"
               title="Resume"
